@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>178207953214-csdm24ti17c3vg24iqhj040dlie13c26.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.178207953214-csdm24ti17c3vg24iqhj040dlie13c26</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMiSylmw9PkMBV93xavfFNkzidmuXHDrM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>178207953214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.martinparker.Netflux</string>
+	<key>PROJECT_ID</key>
+	<string>netflux-b0742</string>
+	<key>STORAGE_BUCKET</key>
+	<string>netflux-b0742.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:178207953214:ios:4d44bf32d21b41ac411c6f</string>
+	<key>DATABASE_URL</key>
+	<string>https://netflux-b0742.firebaseio.com</string>
+</dict>
+</plist>
