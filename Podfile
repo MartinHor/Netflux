@@ -9,5 +9,5 @@ target 'Netflux' do
     pod 'Kingfisher'
     pod 'Firebase/Auth'
     pod 'GoogleSignIn'
-    pod 'IQKeyboardManagerSwift'
+    
 end
