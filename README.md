@@ -1,5 +1,5 @@
 # Netflux
-**Netflux** is an app that shows information about movies using the [TMDB API](http://docs.themoviedb.apiary.io/#).
+**Netflux** is an app that shows information about movies using the [TMDB API](https://www.themoviedb.org/documentation/api).
 
 ![](https://raw.githubusercontent.com/MartinUcsi/Netflux/master/Screenshot/Screenshot%202020-05-10%20at%207.43.53%20PM.png)
 
